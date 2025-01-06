@@ -103,11 +103,11 @@
         <ul class="contact-list">
           <li class="contact-item">
             <ion-icon name="mail-outline"></ion-icon>
-            <a href="mailto:redstream001@gmail.com" class="contact-link">redstream001@gmail.com</a>
+            <a href="mailto:500tayyabking@gmail.com" class="contact-link">redstream001@gmail.com</a>
           </li>
           <li class="contact-item">
             <ion-icon name="call-outline"></ion-icon>
-            <a href="tel:+917558951351" class="contact-link">+91-7558-951-351</a>
+            <a href="tel:+923321709972" class="contact-link">+91-7558-951-351</a>
           </li>
         </ul>
         <ul class="social-list">
@@ -173,7 +173,7 @@
         <div class="container">
           <div class="hero-content">
             <img src="assets/images/blood-icon.png" alt="ICON" width="70" height="70"> 
-            <p class="section-subtitle">Red Stream</p>
+            <p class="section-subtitle">HACKER TF</p>
             <h1 class="h1 hero-title">Contact Us</h1>
             <h2 style="color: var(--royal-blue-light);">Address</h2>
             <p class="hero-text">
@@ -183,8 +183,8 @@
             </p>
             <h2 style="color: var(--royal-blue-light);">Contact Details</h2>
             <p class="hero-text">
-            MOBILE: +91 7558 9513 51 | TELEPHONE: 0484-292674<br>
-            EMAIL : redstream001@gmail.com<br>
+            MOBILE: +923321709972 | TELEPHONE: 923321709972<br>
+            EMAIL : 500tayyabking@gmail.com<br>
             </p>
             <form action="" class="hero-form" method="POST">
               <input type="email" name="email_address" aria-label="email" placeholder="Your Email Address..." required
@@ -333,7 +333,7 @@
     <div class="footer-bottom">
       <div class="container">
         <p class="copyright">
-          &copy; 2024 All Rights Reserved by Red Stream
+          &copy; 2025All Rights Reserved by Hacker TF 
         </p>
         <ul class="social-list">
           <li>
@@ -364,7 +364,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $servername = "localhost";
         $username = "root";
         $password = "";
-        $dbname = "redstream_db";
+        $dbname = "Hacker Tf";
         $conn = new mysqli($servername, $username, $password, $dbname);
         if ($conn->connect_error) {
             die("Connection failed: " . $conn->connect_error);
